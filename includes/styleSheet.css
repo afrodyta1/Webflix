@@ -1,0 +1,91 @@
+html {
+    height: 100%;
+}
+
+body{
+    min-height: 100%;
+    display: grid;
+}
+
+footer{
+    background: #5883A8;
+    margin-top: auto;
+}
+
+body { 
+    background-color: #98CAF5;
+}
+
+#nav1{
+    background-color: #132555;
+}
+
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
+
+#button1{
+    color: black;
+    background-color: #EEF57F;
+}
+
+#background1{
+    background-color: #5883A8;
+}
+
+#background2{
+    background-color: #98CAF5;
+}
+
+
+h1{
+    font-size: 70px;
+    color: black;
+}
+
+h5, h4{
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+}
+
+h6{
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+p, label{
+    font-size: 22px;
+    color: black;
+}
+
+#text1{
+    color: black;
+}
+
+#text2{
+    font-size: 26px;
+    font-weight: bold;
+    color: #00a3de;
+}
+
+#text3{
+    font-size: 22px;
+    color: black;
+}
